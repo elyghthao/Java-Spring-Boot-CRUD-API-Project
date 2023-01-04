@@ -8,6 +8,7 @@ Java application allowing access to mysql table hosted on AWS Elastic Beanstalk 
 
 ### test
 <img src="./pics/app-stored-and-hosted-on-aws.svg">
+
 ### test
 <img src="./pics/data-stored-and-accessible-from-mysql.svg">
 ### test
