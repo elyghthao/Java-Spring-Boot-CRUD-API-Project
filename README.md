@@ -6,17 +6,17 @@ Java application allowing access to mysql table hosted on AWS Elastic Beanstalk 
 * Using Postman, allows access to api. 
 * MySql data features name, price, color, and id
 
-### test
+### App stored and hosted on AWS
 <img src="./pics/app-stored-and-hosted-on-aws.svg">
 
-### test
+### Data stored and accessible using MySql
 <img src="./pics/data-stored-and-accessible-from-mysql.svg">
 
-### test
+### Able to access create data endpoint using Postman
 <img src="./pics/springboot-create-data.svg">
 
-### test
+### Able to read data using read data list endpoint using Postman
 <img src="./pics/springboot-retrieve-list-of-data.svg">
 
-### test
+### Able to read specific data given productId
 <img src="./pics/springboot-retrieve-specific-data-id.svg">
