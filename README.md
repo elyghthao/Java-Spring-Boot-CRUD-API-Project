@@ -11,9 +11,12 @@ Java application allowing access to mysql table hosted on AWS Elastic Beanstalk 
 
 ### test
 <img src="./pics/data-stored-and-accessible-from-mysql.svg">
+
 ### test
 <img src="./pics/springboot-create-data.svg">
+
 ### test
 <img src="./pics/springboot-retrieve-list-of-data.svg">
+
 ### test
 <img src="./pics/springboot-retrieve-specific-data-id.svg">
